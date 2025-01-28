@@ -7,13 +7,13 @@ public class Evenifelse {
     int num;
 num=obj.nextInt();
 
-if(num%2==0 && num%4==0 && num%6==0) {
+if((num%2==0 && num%4==0 && num%6==0)&& (num%8!=0)) {
     System.out.println("divisible by 2,4,6");
 }
 
-else (num%8!=0)  {
-   System.out.println("ii"); 
+else {
+   System.out.println("invailid input ");
+}
+   
 }
 }
-   } 
-

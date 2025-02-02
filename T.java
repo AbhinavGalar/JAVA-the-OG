@@ -22,8 +22,7 @@ public class T{
    temp =((temp*9%5)-32);
    System.out.println(temp);
  }
-    else {
-      System.out.println("ii");
-    }
+
+ 
 }
 }

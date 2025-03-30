@@ -12,3 +12,17 @@
 //         sum();
 //      }
 // }
+import java.util.Scanner;
+
+
+ public class Arrayfun {
+ static void fun(){
+    int a;
+    System.out.println("learning java oops");
+ }
+ public static void main(String[] args) {
+    Arrayfun obj=new Arrayfun();
+    
+ }
+    
+}
